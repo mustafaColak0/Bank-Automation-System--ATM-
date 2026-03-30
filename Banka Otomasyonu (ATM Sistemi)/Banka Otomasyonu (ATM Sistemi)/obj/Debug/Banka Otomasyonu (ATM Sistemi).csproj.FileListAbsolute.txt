@@ -1,8 +1,0 @@
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\bin\Debug\Banka Otomasyonu (ATM Sistemi).exe.config
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\bin\Debug\Banka Otomasyonu (ATM Sistemi).exe
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\bin\Debug\Banka Otomasyonu (ATM Sistemi).pdb
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\obj\Debug\Banka Otomasyonu (ATM Sistemi).csproj.AssemblyReference.cache
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\obj\Debug\Banka Otomasyonu (ATM Sistemi).csproj.CoreCompileInputs.cache
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\obj\Debug\Banka Otomasyonu (ATM Sistemi).exe
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\obj\Debug\Banka Otomasyonu (ATM Sistemi).pdb
-C:\Users\xmust\OneDrive\Masaüstü\C# OKUL\Banka Otomasyonu (ATM Sistemi)\Banka Otomasyonu (ATM Sistemi)\obj\Debug\Banka Otomasyonu (ATM Sistemi).exe.config
