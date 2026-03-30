@@ -1,7 +1,19 @@
 
 # 🏦 Gelişmiş Banka ve ATM Otomasyon Sistemi
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Console App](https://img.shields.io/badge/Console-Application-black?style=for-the-badge)
+
 Bu proje, C# programlama dili kullanılarak sıfırdan geliştirilmiş, sağlam bir mimariye sahip interaktif bir Banka/ATM simülasyonudur. Sistem, kullanıcıların temel finansal işlemlerini konsol üzerinden güvenli, hızlı ve "çökmeye karşı dayanıklı" (crash-proof) bir şekilde yapabilmesi için tasarlanmıştır.
+
+## 📋 İçindekiler
+- [Projenin Amacı](#-projenin-amacı)
+- [Temel Özellikler](#-temel-özellikler)
+- [Teknik Altyapı ve Kullanılan Yapılar](#-teknik-altyapı-ve-kullanılan-yapılar)
+- [Kurulum ve Çalıştırma](#-kurulum-ve-çalıştırma)
+- [Ekran Görüntüleri](#-ekran-görüntüleri)
+- [Gelecek Hedefleri (Yol Haritası)](#-gelecek-hedefleri)
 
 ---
 
